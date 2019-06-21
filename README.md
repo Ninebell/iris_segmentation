@@ -1,2 +1,2 @@
-# iris_segmentation
+# Iris_segmentation
 Iris segmentation using Daughman's Algorithm
